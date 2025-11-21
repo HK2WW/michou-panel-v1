@@ -1,1 +1,0 @@
-# michou-panel-v1
